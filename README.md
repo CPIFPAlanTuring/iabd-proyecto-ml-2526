@@ -8,5 +8,5 @@
 | Vacas López, Cristina | Calorías quemadas según ejercicio |
 | Robles Ruiz, Elías | Precios coches en subasta |
 | Xia Ye, Ruyi | Predicción de ictus |
-
+| Bravo Sánchez , Fernando | Predicción del precio de alojamientos de Airbnb en Málaga |
 
