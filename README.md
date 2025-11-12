@@ -11,3 +11,4 @@
 | Bravo Sánchez , Fernando | Predicción del precio de alojamientos de Airbnb en Málaga |
 | Gálvez Madueño , Alejandro | Detección de cáncer (maligno/benigno) |
 | Sihammou Anahnah , Ismael | Predicción numero de defunciones por causa de muerte y sexo en un municipio|
+| Cerezo López, Carlos | Predicción de posibles accidentes cerebrovasculares|
