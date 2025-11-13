@@ -13,3 +13,4 @@
 | Sihammou Anahnah , Ismael | Predicción numero de defunciones por causa de muerte y sexo en un municipio|
 | Cerezo López, Carlos | Predicción de posibles accidentes cerebrovasculares|
 | Belean, Denisa Ramona | Clustering de lectores según su perfil |
+| López Guerrero, Álvaro | Predicción del tiempo de entrega de pedidos de comida a domicilio |
