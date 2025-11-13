@@ -9,7 +9,7 @@
 | Robles Ruiz, Elías | Precios coches en subasta |
 | Xia Ye, Ruyi | Predicción de ictus |
 | Bravo Sánchez , Fernando | Predicción del precio de alojamientos de Airbnb en Málaga |
-| Gálvez Madueño , Alejandro | Detección de cáncer (maligno/benigno) |
+| Gálvez Madueño , Alejandro | Predicción de precio de Bitcoin |
 | Sihammou Anahnah , Ismael | Predicción numero de defunciones por causa de muerte y sexo en un municipio|
 | Cerezo López, Carlos | Predicción de posibles accidentes cerebrovasculares|
 | Belean, Denisa Ramona | Clustering de lectores según su perfil |
