@@ -19,4 +19,4 @@
 | Guerrero Martín, Ismael | Predicción del retrasos de vuelos |
 | Dueñas Cortés, Manuel | Predicción de goles de jugadores de futbol |
 | Munteanu Popa, Andrei | Predicción del puntaje de felicidad de países |
-| Chacón Macías, Juan Francisco | Predicción de la calidad del sueño |
+| Chacón Macías, Juan Francisco | Predicción de precio de ordenadores |
