@@ -12,7 +12,7 @@
 | Gálvez Madueño , Alejandro | Predicción de precio de Bitcoin |
 | Sihammou Anahnah , Ismael | Predicción numero de defunciones por causa de muerte y sexo en un municipio|
 | Cerezo López, Carlos | Predicción de posibles accidentes cerebrovasculares|
-| Belean, Denisa Ramona | Clustering de lectores según su perfil |
+| Belean, Denisa Ramona | Predicción de velocidad de recuperación y gravedad de un desastre natural |
 | López Guerrero, Álvaro | Predicción de lesiones en deportistas |
 | Alcántara Moreno, Enrique | Predicción de hasta qué punto mantenerse activo se asocia con una menor probabilidad de padecer hipertensión en personas adultas. |
 | Delgado Rodríguez, Antonio | Predicción de diabetes |
