@@ -18,5 +18,5 @@
 | Delgado Rodríguez, Antonio | Predicción de diabetes |
 | Guerrero Martín, Ismael | Predicción del retrasos de vuelos |
 | Dueñas Cortés, Manuel | Predicción de goles de jugadores de futbol |
-| Munteanu Popa, Andrei | Predicción del puntaje de felicidad de países |
+| Munteanu Popa, Andrei | Predicción de especies de pinguinos |
 | Chacón Macías, Juan Francisco | Predicción de precio de ordenadores |
